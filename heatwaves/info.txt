@@ -1,0 +1,19 @@
+
+1. Generare/Aggiornare i Dati (con 'heatwave_forecast.py')
+
+Questo script recupera le previsioni meteo e crea/aggiorna il file 'heatwave_forecast_output\all_heatwave_data.csv' e le mappe giornaliere.
+
+Comando Base:
+python heatwave_forecast.py --start_date 2025-06-26 --forecast_days 7
+
+Spiegazione parametri:
+--start_date YYYY-MM-DD: Data di inizio della previsione (es: 2025-06-26 per oggi). Obbligatorio.
+--forecast_days N: Numero di giorni di previsione a partire da --start_date (default: 7).
+
+Esempi di Utilizzo:
+- Previsione per oggi e i prossimi 5 giorni (modelli di default):
+  python heatwave_forecast.py --start_date 2025-06-26 --forecast_days 5
+
+- Previsione per una settimana a partire da una data futura (es: 1° Luglio 2025) con modelli specifici:
+  python heatwave_forecast.py --start_date 2025-07-01 --forecast_days 7 --models ecmwf_ifs025,gfs_seamless
+  Nota: --models specifica i modelli meteo da usare (separati da virgola). I default sono 'ecmwf_ifs025,icon_eu'.

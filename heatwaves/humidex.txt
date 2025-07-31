@@ -1,0 +1,3 @@
+info indice humidex
+
+http://www.nimbus.it/faq/030609indicecalore.htm
