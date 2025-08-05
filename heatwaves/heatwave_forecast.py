@@ -308,7 +308,7 @@ def main():
 
             ax.legend(
                 title='Indice di calore (Humidex) massimo',
-                loc='upper left',
+                loc='upper right',
                 fontsize=10,
                 title_fontsize=11,
                 frameon=True,
