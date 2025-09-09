@@ -1,5 +1,31 @@
+# weekly
 weekly_forecast/img/
+
+# heatwaves
 heatwaves/heatwave_forecast_output/
 heatwaves/ProvCM01012022/
 heatwaves/capoluoghi_provincia_coordinate.csv
 heatwaves/__pycache__/
+
+# delfi
+*.png
+CLC_L1/
+__pycache__/
+brera_station/
+data_dp/
+data_era5/
+data_fomd/
+enricos_script/
+failures/
+forecast_moloch/
+load/
+*.jpg
+observation_arpa/
+observation_mistral/
+output_maps/
+outputs/
+reports/
+shapefiles/
+slides/
+storico_previsioni_meteo_prometeo.csv
+
