@@ -1,0 +1,24 @@
+
+lancio script radar_downloader.py 
+
+python radar_downloader.py --products VMI,SRI,TEMP --output ./downloads
+
+| Opzione       | Descrizione                                              | Default      |
+| ------------- | -------------------------------------------------------- | ------------ |
+| `--products`  | Lista di prodotti separati da virgola                    | VMI,SRI,TEMP |
+| `--output`    | Directory di output per salvare i file                   | ./downloads  |
+| `--workers`   | Numero di thread paralleli per il download               | 3            |
+| `--log-level` | Livello di logging (`DEBUG`, `INFO`, `WARNING`, `ERROR`) | INFO         |
+
+
+downloads/
+├── VMI/
+│   └── 20251001_1200_vmi.nc
+├── SRI/
+│   └── 20251001_1200_sri.nc
+└── TEMP/
+    └── 20251001_1200_temp.nc
+
+Per visualizzare il dato: 
+
+python radar_plotter.py
