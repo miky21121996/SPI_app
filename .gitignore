@@ -1,5 +1,11 @@
 # weekly
 weekly_forecast/img/
+weekly_forecast/era5/*.grib
+weekly_forecast/gridpoints/*.csv
+weekly_forecast/raw_metdesk/*.json
+weekly_forecast/raw_metdesk/*.csv
+weekly_forecast/raw_meteomatics/*.csv
+weekly_forecast/validation_weekly_forecast/
 
 # heatwaves
 heatwaves/heatwave_forecast_output/
