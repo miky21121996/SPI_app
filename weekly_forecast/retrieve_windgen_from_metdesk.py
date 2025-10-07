@@ -192,6 +192,5 @@ if __name__=="__main__":
     
     #print(retrieve_forecasts(country, 'eceps'))
 
-    
 
    

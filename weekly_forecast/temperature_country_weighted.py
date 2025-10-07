@@ -380,7 +380,7 @@ def plot_temperature_from_csv(countries, startdate, enddate):
 
     colors ={'Germany': 'orange', 'France': 'blue', 'Italy': 'red', 'Romania': 'maroon'}
 
-    climate = {'Germany': 18.8, 'France': 20.1, 'Italy': 21.1, 'Romania': 21.9}  # to change manually
+    climate = {'Germany': 11.5, 'France': 15.2, 'Italy': 17.3, 'Romania': 13.2}  # to change manually
 
     for country in countries:
         # Read the CSV file
@@ -432,7 +432,7 @@ def plot_temperature_from_csv(countries, startdate, enddate):
     plt.xticks(rotation=45)
     plt.grid()
     plt.tight_layout()
-    plt.ylim(15, 30)  # set y-axis limits
+    #plt.ylim(15, 30)  # set y-axis limits
     end_xlim = pd.to_datetime((enddate - datetime.timedelta(days=3)).strftime("%Y-%m-%d"))
     plt.xlim(pd.to_datetime(startdate.strftime("%Y-%m-%d")), end_xlim)
 
@@ -514,7 +514,7 @@ if __name__=='__main__':
     #param=['climatological_regime:idx']
     #model='ecmwf-vareps'
     
-    startdate = dt.datetime(2025, 7, 30, 0, 0, 0)
+    startdate = dt.datetime(2025, 10, 2, 0, 0, 0)
     enddate = startdate + dt.timedelta(days=14)
 
     countries=['Germany', 'France', 'Italy', 'Romania']
@@ -525,12 +525,12 @@ if __name__=='__main__':
             
         #------------ get native ECEPSgrid ---------- (saved in gridpoints/gridpoints_eceps.csv)
 
-        gridpoints_eceps = grid_from_file(r'random_forecast_for_grid.grib')
+        #gridpoints_eceps = grid_from_file(r'random_forecast_for_grid.grib')
 
         #----------- compute country coordinates from shapefile ----------- (saved in gridpoints/closest_model_coordinates_{country}.csv)
-        paese, coordinates = outlines_of_country(country)
+        #paese, coordinates = outlines_of_country(country)
         #and find the closest model grid points
-        coordinates2 = closest_model_grid(coordinates, country)
+        #coordinates2 = closest_model_grid(coordinates, country)
         
         #---------- POLYGON REQUEST -----------
         # call api
