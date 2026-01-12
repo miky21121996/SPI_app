@@ -8,8 +8,8 @@ import plotly.graph_objects as go
 from waitress import serve
 
 # Percorsi
-DATA_FOLDER = r"C:\Users\michele.giurato\OneDrive - A2A Group\Documenti\GitHub\a2a_WES\dashboard_pluvio_copy\cor_files"
-CSV_STAZIONI = r"C:\Users\michele.giurato\OneDrive - A2A Group\Documenti\GitHub\a2a_WES\dashboard_pluvio_copy\localizzazione.csv"
+DATA_FOLDER = r"./cor_files"
+CSV_STAZIONI = r"./localizzazione.csv"
 
 # ------------------------
 # Lettura CSV coordinate
