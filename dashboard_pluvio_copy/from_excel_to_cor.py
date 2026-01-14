@@ -47,10 +47,15 @@ def calculate_monthly_precipitation(csv_file):
 
         # Raggruppa per anno e mese e calcola la somma dei valori nel mese
         # count indica il numero di valori non-NaN presenti
-        grouped = df.groupby(['YYYY', 'M'])['Valore Cumulato'].agg(['sum', 'count']).reset_index()
+        grouped = df.groupby(['YYYY', 'M'])['Valore Cumulato'].agg(
+            sum=lambda x: x.sum(min_count=1),
+            count='count'
+        ).reset_index()
 
         # Rinomina la colonna sum in precipitazione_tot_mese
         grouped = grouped.rename(columns={'sum': 'precipitazione_tot_mese'})
+
+        print(grouped['precipitazione_tot_mese'])
 
         # Considera outlier di precipitazione (>400 mm) come NaN
         grouped.loc[grouped['precipitazione_tot_mese'] > 400, 'precipitazione_tot_mese'] = -99
