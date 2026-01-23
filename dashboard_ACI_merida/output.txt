@@ -1,0 +1,3403 @@
+Shapefile Lombardia già presente.
+Carico pr_monthly_2012_2022.nc già esistente...
+Calcolo SPI-1 ...
+Calcolo SPI-1 per DataArray di shape (125, 29, 43)...
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI calcolato per pixel, scale=1
+SPI-1 completato.
+Salvato SPI_1.nc
+Calcolo SPI-3 ...
+Calcolo SPI-3 per DataArray di shape (125, 29, 43)...
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI calcolato per pixel, scale=3
+SPI-3 completato.
+Salvato SPI_3.nc
+Calcolo SPI-6 ...
+Calcolo SPI-6 per DataArray di shape (125, 29, 43)...
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+SPI-6 completato.
+Salvato SPI_6.nc
+Calcolo SPI-9 ...
+Calcolo SPI-9 per DataArray di shape (125, 29, 43)...
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+SPI-9 completato.
+Salvato SPI_9.nc
+Calcolo SPI-12 ...
+Calcolo SPI-12 per DataArray di shape (125, 29, 43)...
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+Troppi pochi dati validi (0) per calcolare SPI
+SPI-12 completato.
+Salvato SPI_12.nc
+TUTTO COMPLETATO.
